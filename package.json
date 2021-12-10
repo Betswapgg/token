@@ -1,0 +1,22 @@
+{
+  "name": "token",
+  "version": "0.0.2",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "errorhandler": "^1.5.1",
+    "ethereumjs-util": "^7.0.10",
+    "ethers": "^5.1.0",
+    "fs": "0.0.1-security",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
+    "solc": "^0.8.9",
+    "web3": "^1.6.1",
+    "web3-eth-personal": "^1.6.1"
+  }
+}
