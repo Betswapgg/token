@@ -18,5 +18,8 @@
     "solc": "^0.8.9",
     "web3": "^1.6.1",
     "web3-eth-personal": "^1.6.1"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.20"
   }
 }
